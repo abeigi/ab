@@ -1,3 +1,5 @@
 name: Qoherent
 markdown: kramdown
 permalink: /qoherent/blog/:year/:month/:day/:title
+# Google Analytics
+google_analytics: UA-127646035-3
