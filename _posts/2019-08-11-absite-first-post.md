@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "AB Test first post attempt"
+title: "First post"
 date: 2019-08-11
 ---
 
-Simple sample text - no markdown yet. just seeing what happens (am novice at mixing html and md and using git at time of posting).
+Welcome to Qoherent. This blog is a placeholder for us share our developments as we build out our company.
