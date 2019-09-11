@@ -1,3 +1,3 @@
-name: AB test site
+name: Qoherent
 markdown: kramdown
 permalink: /abtest/blog/:year/:month/:day/:title
